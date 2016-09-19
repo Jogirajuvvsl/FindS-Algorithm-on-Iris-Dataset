@@ -1,0 +1,2 @@
+Here We have implemented the Find S algoritm in machine learning on iris data set to find the most general hypothesis using training set
+and then tested it through test set .Then verified the accuracies for different random sets.
